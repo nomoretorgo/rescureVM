@@ -1,0 +1,6 @@
+out-null
+
+cmd /c color 0A
+
+
+sc config Teamviewer start=auto
